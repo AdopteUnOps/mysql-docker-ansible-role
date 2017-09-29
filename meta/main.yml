@@ -1,0 +1,15 @@
+galaxy_info:
+  author: AdopteUnOps
+  description: Ansible role to run a mysql container.
+  license: Apache
+
+  min_ansible_version: 2.2
+
+  platforms:
+   - name: Ubuntu
+
+  galaxy_tags:
+  - mysql
+  - docker
+
+dependencies: []
